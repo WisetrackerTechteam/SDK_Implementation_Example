@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "987910617330",
+    "firebase_url": "https://rwapp-289801.firebaseio.com",
+    "project_id": "rwapp-289801",
+    "storage_bucket": "rwapp-289801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987910617330:android:7d27dcd9b6bc85bbe9b86b",
+        "android_client_info": {
+          "package_name": "com.support.wisetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987910617330-buja24rl4i19vv3anbpvl3puhmsmirhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.support.wisetracker",
+            "certificate_hash": "edc47bca0e86f44ed79939cb7d8bddda7a7d9d5d"
+          }
+        },
+        {
+          "client_id": "987910617330-000h7qjima002i0ei8d77au5ck4ot78s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZy3QrJm6LrT8CdA8F5eCbJ5Un1j3vgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987910617330-000h7qjima002i0ei8d77au5ck4ot78s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987910617330-jqtgtecosjps84rso739s3e5k7vivl9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wisetracker.RW",
+                "app_store_id": "1494662391"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
